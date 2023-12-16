@@ -1,0 +1,101 @@
+{
+  "paths": [
+    {
+      "id": 1,
+      "pathName": "Skalna skałka",
+      "description": "Wysoka, przepiękne widoki i uroki natury!",
+      "image": "https://foto.hostuje.org/x/86badd8a7d8f5cd2169fab599b23ff1b.png",
+      "pathLength": 34933
+    },
+
+    {
+      "id": 2,
+      "pathName": "Zielone pagórki",
+      "description": "Piękne i rozmaite wzniesienia i zniżenia!",
+      "image": "https://foto.hostuje.org/x/87b41db238853a769ffeb8a7d06be31d.png",
+      "pathLength": 83764
+    },
+
+    {
+      "id": 3,
+      "pathName": "Brzeg piratów",
+      "description": "Droga tylko dla odważnych!",
+      "image": "https://foto.hostuje.org/x/fc7e2d1b88ecfb13df47bd8c299f3f7f.png",
+      "pathLength": 120842,
+    },
+	
+    {
+      "id": 4,
+      "pathName": "Kokosowa ferajna",
+      "description": "Kokos fajna rzecz",
+      "image": "https://foto.hostuje.org/x/6084c9e8b123312c28cb467a7e0c00c5.png",
+      "pathLength": 50705
+    },
+    {
+      "id": 5,
+      "pathName": "Glikoliza",
+      "description": "Poznasz tam szeroką gamę natury",
+      "image": "https://foto.hostuje.org/x/87cbda4ad003c07d474eee54fc49b08f.png",
+      "pathLength": 88238
+    },
+    {
+      "id": 6,
+      "pathName": "Jesienne deszcze",
+      "description": "Często tu pada ale barwne kolory to wynagrodzą!",
+      "image": "https://foto.hostuje.org/x/acf25a9b9ed668874c4ca7c7cf21d9d0.png",
+      "pathLength": 4523
+    }
+  ],
+  "pathsResults": [
+    {
+      "id": 1,
+      "userTime": "34",
+      "timeDate": "04-05-2016",
+      "userId": 1,
+      "pathId": 4
+    },
+
+    {
+      "id": 2,
+      "userTime": "48",
+      "timeDate": "14-07-2023",
+      "userId": 2,
+      "pathId": 5
+    },
+
+    {
+      "id": 3,
+      "userTime": "22",
+      "timeDate": "21-06-2012",
+      "userId": 3,
+      "pathId": 2
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "userName": "Parzydełkoweic1234"
+    },
+
+    {
+      "id": 1,
+      "userName": "Gierek Gierkowski"
+    },
+
+    {
+      "id": 1,
+      "userName": "Alina Witamina"
+    }
+  ],
+  "pathTypes": [
+    {
+      "id": 1,
+      "type": "rowerowa"
+    },
+
+    {
+      "id": 2,
+      "type": "piesza"
+    }
+  ]
+}
